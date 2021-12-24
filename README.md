@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
+<div align="left">
 <!--
 **utkarshsethi/utkarshsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,16 +13,19 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/utkarshsethi/) or my  [Discord](https://discordapp.com/users/hsraktu.ihtes#5075)
+- 📫 You can connect with me here:
+  - via a [GitHub issue](https://github.com/utkarshsethi/utkarshsethi/issues)
+  - [Linkedin](https://www.linkedin.com/in/utkarshsethi/)
+  - I sometimes open [Facebook](https://www.facebook.com/hsraktu.ihtes/) or [Instagram](https://www.instagram.com/hsraktu.ihtes/)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&count_private=true&include_all_commits=true">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi">
-</div>
+<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<img align="center" alt="" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true">
+  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<img align="center" alt="" width="450" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true">
+</a>
