@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img align="center" alt="" width="480" height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true">
+<img align="center" alt="" width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true">
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img align="center" alt="" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true">
+<img align="center" alt="" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true">
 </a>
