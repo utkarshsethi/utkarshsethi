@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&count_private=true&include_all_commits=true">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi">
+</div>
