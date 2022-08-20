@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤝🏼 I’m looking to collaborate on Embedded Projects
 - 🎓 Pursuing my Master of Engineering, Electrical 🔌⚡ at University of Wollongong, Australia (UOW)
 - 📫 You can connect with me here:
-  - via a [GitHub issue](https://github.com/utkarshsethi/utkarshsethi/issues)
+  - 👩🏻‍💻 via a [GitHub issue](https://github.com/utkarshsethi/utkarshsethi/issues)
   - 💼 [Linkedin](https://www.linkedin.com/in/utkarshsethi/)
   - 💬 I sometimes open [Facebook](https://www.facebook.com/hsraktu.ihtes/) or [Instagram](https://www.instagram.com/hsraktu.ihtes/)
 <!--
