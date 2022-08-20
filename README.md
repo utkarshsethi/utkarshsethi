@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 - 🤝🏼 I’m looking to collaborate on Embedded Projects
-- 🎓 Pursuing my Master of Engineering, Electrical at University of Wollongong, Australia (UOW)
+- 🎓 Pursuing my Master of Engineering, Electrical 🔌⚡ at University of Wollongong, Australia (UOW)
 - 📫 You can connect with me here:
   - via a [GitHub issue](https://github.com/utkarshsethi/utkarshsethi/issues)
   - 💼 [Linkedin](https://www.linkedin.com/in/utkarshsethi/)
