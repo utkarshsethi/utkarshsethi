@@ -1,4 +1,4 @@
-### Hi there 👋<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px"><div class="tenor-gif-embed" data-postid="15583157" data-share-method="host" data-aspect-ratio="1.12676" data-width="100%"><a href="https://tenor.com/view/waving-pikachu-gif-cute-hi-gif-15583157">Waving Pikachu Sticker</a>from <a href="https://tenor.com/search/waving-stickers">Waving Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### <img src="https://c.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" height="50px"> Hi there!!
 <div align="left">
 <!--
 **utkarshsethi/utkarshsethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
