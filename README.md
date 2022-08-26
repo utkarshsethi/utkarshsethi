@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utkarshsethi&hide_border=true)](https://git.io/streak-stats)
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 <img align="center" alt="" width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true">
