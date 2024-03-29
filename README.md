@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img align="center" alt="" height="200"src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&rank_icon=github">
+<img align="center" alt="" height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&rank_icon=github">
 
-<img align="center" alt="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true&hide_progress=true">
+<img align="center" alt="" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true&hide_progress=true">
 </a>
 
 
