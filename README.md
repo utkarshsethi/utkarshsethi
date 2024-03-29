@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&rank_icon=github"></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true&hide_progress=true"></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=utkarshsethi&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true&rank_icon=github"></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsethi&show_icons=true&layout=compact&include_all_commits=true&theme=apprentice&hide_border=true&hide_progress=false"></a> |
 | ------------- | ------------- |
 
 
