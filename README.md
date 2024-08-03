@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 - 🤝🏼 I’m looking to collaborate on Embedded Projects
-- 🎓 Pursuing my Master of Engineering (Electrical) 🔌⚡ at University of Wollongong (UOW)
+- 🎓 Master of Engineering (Electrical) 🔌⚡
+- 🎓 Bachelor of Technology (Electronics & Telecommunication) 🔋⏚𒁈
 - 📫 You can connect with me here:
   - [📧 email](mailto:utkarsh@hsraktu.me)
   - [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20"> Linkedin](https://www.linkedin.com/in/utkarshsethi/)
